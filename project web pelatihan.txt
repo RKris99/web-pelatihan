@@ -1,0 +1,3 @@
+Membuat layout login form
+Membuat layout home page
+Membuat data untuk account web-pelatihan
